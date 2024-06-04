@@ -22,5 +22,6 @@ Our solution focuses on developing a robust Quality Assurance and Output Validat
 - 
 
 ## Architecture
-
-*(This section will be populated as we progress in our implementation.)*
+<p align="center">
+  <img src="Architecture.png" alt="Architecture">
+</p>
