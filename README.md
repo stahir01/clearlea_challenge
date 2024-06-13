@@ -15,13 +15,10 @@ In the digital age, building trust in AI-generated outputs is crucial, especiall
 
 ### Overview
 
-Our solution focuses on developing a robust Quality Assurance and Output Validation framework within the Retrieval-Augmented Generation (RAG) system used by Clearlea.se's AIDP. The goal is to validate and enhance the trustworthiness of the AI-generated outputs through both machine-based and human-based methods.
-
-### Steps to Solve the Challenge
-
-- 
+Our solution focuses on developing a robust Quality Assurance and Output Validation framework within the Retrieval-Augmented Generation (RAG) system used by Clearlea.se's AIDP. The goal is to validate and enhance the trustworthiness of the AI-generated outputs through both machine-based and human-based methods
 
 ## Architecture
 <p align="center">
-  <img src="Architecture.png" alt="Architecture">
+  <img src="clearlea/images/Architecture1.png" alt="Architecture1" style="width: 49%; display: inline-block;">
+  <img src="clearlea/images/Architecture2.png" alt="Architecture2" style="width: 49%; display: inline-block;">
 </p>
