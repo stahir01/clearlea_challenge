@@ -19,6 +19,6 @@ Our solution focuses on developing a robust Quality Assurance and Output Validat
 
 ## Architecture
 <p align="center">
-  <img src="images/Architecture1.png" alt="Architecture1" style="width: 49%; display: inline-block;">
-  <img src="images/Architecture2.png" alt="Architecture2" style="width: 49%; display: inline-block;">
+  <img src="images/Architecture1.png" alt="Architecture1" style="width: 80%; display: inline-block;">
+  <img src="images/Architecture2.png" alt="Architecture2" style="width: 80%; display: inline-block;">
 </p>
