@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date associated with the primary agreement is the \"14th day of June, 2024\". The addendum pertaining to the pet agreement does not explicitly state a date, but it is assumed to have been executed on the same day as the primary agreement, given it is referenced as \"Addendum A\". Therefore, the date for Addendum A would be \"14th day of June, 2024\"."
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The tenant's first name is 3M!LY, which appears in the Real Estate Rental Contract and the Pet Agreement sections of the document."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The tenant last name is BR0WN."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The tenant's email address is 3mily.br0wn@exampl3.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The landlord's first name is Robert."
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The last name of the landlord (Proprietor) is Johnston."
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The landlord's phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The landlord's email address is r0bert.j0hns0n@exampl3.com."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The rental property street address is 789 P!N3 STR33T, SPR!NGF!3LD, !L, 62703."
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The rental property is located in Springfield, IL."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The Rental Property is located in Springfield, IL, USA. However, the specific state/province is not explicitly mentioned in the document. Based on the format of the address and the name of the state mentioned in the jurisdiction section, it can be inferred that the state is likely to be 'Illinois'."
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The postal/zip code for the rental property is 62703."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The term start date is July 1, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "The term start time is on the 1st of Jul!, 2024."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "The term end date is the 30th of Jun3, 2025."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The term end time is on the 30th of Jun3, 2025."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The rental amount for this agreement is $2,000 per month, with a total rental amount of $24,000 for the lease period."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method is not explicitly stated in the document. It only mentions the amount and due dates of the rent but does not specify how the payments should be made."
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The document does not specify a reservation fee."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The security deposit amount is $2,000."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The maximum number of occupants is not explicitly stated in the document. It only mentions that the property shall be used for residential purposes by the lessee and their immediate kin."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "Yes, pets are allowed. The addendum A of the document is a pet agreement between the proprietor and the lessee."
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "No, smoking is not explicitly allowed or disallowed in the document. However, it can be inferred that smoking might not be allowed as the Lessee is responsible for maintaining the Property in a clean and hygienic state, and any damages due to their or their invitees\u2019 negligence lie with the Lessee."
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency used in the document is US Dollars (USD). This can be seen in the \"Remuneration\" section where the cumulative rent for the lease period is stated to be $24,000 and the monthly rent is $2,000. Also, the security deposit is $2,000."
+    }
+]

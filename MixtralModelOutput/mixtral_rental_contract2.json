@@ -1,7 +1,7 @@
 [
     {
         "question": "Date",
-        "answer": "The date associated with this Rental Agreement is the 14th day of June, 2024. This is stated at the beginning of the document: \"This Rental Agreement (\"Agreement\") is made and entered into on this 14th day of June, 2024,\""
+        "answer": "The date associated with this Rental Agreement is \"the 14th day of June, 2024.\" This information can be found at the beginning of the document."
     },
     {
         "question": "Tenant First Name",
@@ -9,7 +9,7 @@
     },
     {
         "question": "Tenant Last Name",
-        "answer": "The tenant's last name is Smith."
+        "answer": "The last name of the tenant is Smith."
     },
     {
         "question": "Tenant Phone Number",
@@ -17,7 +17,7 @@
     },
     {
         "question": "Tenant Email",
-        "answer": "The tenant email is jane.smith@example.com."
+        "answer": "The tenant's email address is jane.smith@example.com."
     },
     {
         "question": "Landlord First Name",
@@ -29,7 +29,7 @@
     },
     {
         "question": "Landlord Phone Number",
-        "answer": "The landlord phone number is (555) 123-4567."
+        "answer": "The landlord's phone number, based on the provided document, is (555) 123-4567."
     },
     {
         "question": "Landlord Email",
@@ -41,11 +41,11 @@
     },
     {
         "question": "Rental Property City",
-        "answer": "The rental property is located in the city of Springfield, IL. This is stated in the \"Property\" section of the document."
+        "answer": "The rental property is located in Springfield, IL. This information can be found in the \"Property\" section of the document."
     },
     {
         "question": "Rental Property State/Province",
-        "answer": "The rental property is located in Springfield, IL, 62703, which is in the state of Illinois."
+        "answer": "The rental property state/province is Illinois. This is mentioned in the \"Governing Law\" section of the document."
     },
     {
         "question": "Rental Property Postal/Zip Code",
@@ -53,7 +53,7 @@
     },
     {
         "question": "Term Start Date",
-        "answer": "The term of this lease shall begin on July 1, 2024. Therefore, the start date of the term is July 1, 2024."
+        "answer": "The term of this lease shall begin on July 1, 2024."
     },
     {
         "question": "Term Start Time",
@@ -65,11 +65,11 @@
     },
     {
         "question": "Term End Time",
-        "answer": "The end time of the term is June 30, 2025."
+        "answer": "The term of this lease ends on June 30, 2025."
     },
     {
         "question": "Rental Amount",
-        "answer": "The rental amount is $2,000 per month, and the total rent for the lease term is $24,000."
+        "answer": "The total rent for the term of this lease is $24,000, payable in monthly installments of $2,000."
     },
     {
         "question": "Payment Method",
@@ -77,7 +77,7 @@
     },
     {
         "question": "Reservation Fee",
-        "answer": "The document does not mention a reservation fee."
+        "answer": "The document does not include information on a reservation fee."
     },
     {
         "question": "Security Deposit Amount",
@@ -85,18 +85,18 @@
     },
     {
         "question": "Maximum Number of Occupants",
-        "answer": "The maximum number of occupants is not explicitly stated in the document. The document mentions that the property will be used for residential purposes by the tenant and their immediate family, but it does not specify a maximum number."
+        "answer": "The maximum number of occupants is not explicitly stated in the provided document. It is recommended to include this information in a future version of the agreement."
     },
     {
         "question": "Pets Allowed (Yes/No)",
-        "answer": "Yes, pets are allowed. The addendum to the contract indicates that Jane Smith, the tenant, has agreed to the terms and conditions of keeping a pet (a dog named Max) in the property."
+        "answer": "Yes, pets are allowed. The addendum to the rental agreement includes a pet agreement between the landlord and tenant for a dog named Max."
     },
     {
         "question": "Smoking Allowed (Yes/No)",
-        "answer": "No, smoking is not allowed. It is not explicitly stated in the document, but since there is no mention of smoking being allowed, it is typically assumed to not be allowed unless stated otherwise."
+        "answer": "No, smoking is not allowed. It is not explicitly stated in the document, but the use of the premises is solely for residential purposes, and the tenant shall not use the premises for any unlawful purpose. Therefore, smoking may be considered an unlawful activity or against the property rules, although it is not explicitly mentioned."
     },
     {
         "question": "Currency",
-        "answer": "The currency used in the Real Estate Rental Contract is the US dollar (USD). This can be seen in the sections about rent and security deposit, where the amounts are stated as \"$24,000\" and \"$2,000\"."
+        "answer": "The currency used in the document is the United States Dollar (USD). The following is the extracted data:\n\n1. Total rent for the term of this lease: $24,000\n2. Security deposit amount: $2,000\n3. Late fee assessed if rent is not paid by the 5th day of the month: $50\n4. Additional $5 per day if rent is not paid by the 10th day of the month: $5\n5. Non-refundable pet fee: $300"
     }
 ]

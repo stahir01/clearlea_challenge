@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date mentioned in the document is:\n\n* Execution date: June 14, 2024\n* Lease start date: July 1, 2024\n* Lease end date: June 30, 2025\n\nLet me know what specific date you're looking for!"
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The answer is: Emily"
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The tenant's last name is Brown."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant's (Lessee's) phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The tenant's email address is emily.brown@example.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The Landlord's first name is Robert."
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The answer is: Johnson"
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The landlord's phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The landlord's email address is robert.johnson@example.com."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The Rental Property Street Address is:\n\n789 Pine Street, Springfield, IL, 62703"
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The Rental Property City is Springfield."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The rental property is located in the state of Illinois."
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "According to the document, the Rental Property's Postal/Zip Code is 62703."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The Term Start Date is July 1, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "According to the document, the Term Start Time is July 1, 2024."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "According to the document, the Term End Date is June 30, 2025."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The term end time is June 30, 2025."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The rental amount is $2,000 per month, with a total of $24,000 for the entire lease period."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method is not explicitly stated in the document. Therefore, the answer is \"not available\"."
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The answer is 'not available'. There is no mention of a Reservation Fee in the provided document."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The Security Deposit Amount is $2,000."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The answer is: not available.\n\nThere is no specific mention of the maximum number of occupants in the provided Real Estate Rental Contract."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "Since there is an \"Addendum A: Pet Agreement\" section, it implies that pets are allowed. Therefore, the answer is:\n\nYes"
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "The answer is: not available."
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency mentioned in the document is not explicitly stated, but based on the context and the mention of dollar amounts, it can be inferred that the currency is the US Dollar (USD)."
+    }
+]

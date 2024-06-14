@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The answer is: June 13, 2024."
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The tenant's first name is Jane."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The tenant's last name is Doe."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant's phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The tenant's email address is jane.doe@example.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The landlord's first name is John."
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The landlord's last name is Smith."
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The landlord's phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The landlord's email is john.smith@example.com."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The answer is: 123 Main Street."
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "According to the document, the Rental Property City is Springfield."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The answer is: Illinois"
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The rental property postal/zip code is 62701."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The Term Start Date is July 1, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "The term start time is 12:00 PM."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "The Term End Date is June 30, 2025, at 12:00 PM."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The Term End Time is 12:00 PM on June 30, 2025."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "According to the document, the rental amount is $1,200 per month."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method is via bank transfer to the following account:\n\n- Bank Name: First National Bank\n- Account Number: 123456789\n- Routing Number: 987654321"
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The reservation fee is $200, which is non-refundable and applied towards the first month's rent."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The Security Deposit Amount is $1,200."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The maximum number of occupants allowed is 4."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "According to the document, the answer is: Yes"
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "Smoking Allowed: No"
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency mentioned in the document is USD (United States Dollars), but it is not explicitly stated. Therefore, I'll answer \"not available\". However, based on the context and the amounts mentioned, it is likely that the currency is USD."
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date is June 14, 2024."
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The answer is: Jane."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The answer is: Smith."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The Tenant's phone number is: (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The Tenant's email address is jane.smith@example.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The Landlord's First Name is: John"
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The Landlord's last name is Doe."
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The Landlord's phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The Landlord's email is: john.doe@example.com"
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The rental property street address is: 789 Pine Street, Springfield, IL, 62703."
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The Rental Property City is Springfield."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The answer is: Illinois"
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The answer is: 62703"
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The Term Start Date is July 1, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "The answer is: July 1, 2024"
+    },
+    {
+        "question": "Term End Date",
+        "answer": "The Term End Date is June 30, 2025."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The Term End Time is June 30, 2025."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The Rental Amount is $24,000, payable in monthly installments of $2,000."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method is not explicitly mentioned in the document. Therefore, the answer is \"not available\"."
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The answer is 'not available'. There is no mention of a \"Reservation Fee\" in the provided Real Estate Rental Contract document."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The Security Deposit Amount is $2,000."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The maximum number of occupants is not explicitly stated in the document. Therefore, the answer is \"not available\"."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "Based on the document, the answer is: Yes"
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "The question asks to extract the data about whether smoking is allowed or not. After reviewing the document, I found that there is no mention of smoking or any restrictions related to it. Therefore, the answer is:\n\nNot Available"
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency mentioned in the document is USD (United States Dollars)."
+    }
+]

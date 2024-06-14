@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date mentioned in the document is:\n\nJune 14, 2024"
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The tenant's first name is 3M!LY (Emily)."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The Tenant's Last Name is BR0WN."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant's phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The Tenant's email address is **3mily.br0wn@exampl3.com**."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The Landlord's first name is R0B3RT."
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The Landlord's Last Name is J0HNS0N."
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "According to the document, the Landlord's phone number is: **(555) 123-4567**."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The Landlord's email address is **r0bert.j0hns0n@exampl3.com**."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The Rental Property Street Address is: **789 P!N3 STR33T, SPR!NGF!3LD, !L, 62703**"
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The Rental Property City is SPR!NGF!3LD."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The answer is: !L ( Illinois)"
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The rental property's postal/zip code is 62703."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The Term Start Date is **1st of Jul!**, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "According to the document, the Term Start Time is **Jul! 1, 2024**."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "The Term End Date is **Jun3 30, 2025**."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The Term End Time is June 30, 2025."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The rental amount is $24,000, payable in monthly tranches of $2,000."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method is not explicitly mentioned in the document. Therefore, the answer is 'not available.'"
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "Not available."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The Security Deposit Amount is $2,000."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The maximum number of occupants is not explicitly stated in the document, so the answer is \"not available\"."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "The answer is: Yes"
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "Smoking is not mentioned in the document, so the answer is \"not available\"."
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency used in the document is USD (United States Dollar)."
+    }
+]

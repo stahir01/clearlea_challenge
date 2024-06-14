@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date associated with the main rental agreement is the 14th day of June, 2024. The addendum, Addendum A: Pet Agreement, is dated but the specific date is not provided in the text you have given."
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The tenant's first name is Emily, as per the **Lessee** details in the Real Estate Rental Contract."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The tenant last name is Brown."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant's phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The tenant's email address is emily.brown@example.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The landlord's first name is Robert, as stated in the Proprietor section of the Real Estate Rental Contract.\n\nProprietor:\nDesignation: Robert Johnson  \nResidence: 123 Main Street, Suite 100, Springfield, IL, 62701  \nContact Number: (555) 123-4567  \nEmail Address: robert.johnson@example.com"
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The last name of the landlord (Proprietor) is Johnson."
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The landlord phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The landlord's email address is robert.johnson@example.com."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The rental property street address is 789 Pine Street, Springfield, IL, 62703."
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The rental property is located in Springfield, IL. This is stated in the **Premises** section of the document."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The Rental Property State/Province is Illinois. This information can be found in the \"Real Estate Rental Contract\" document under the section \"Jurisdiction,\" which states that \"This Agreement is governed by the laws of the State of Illinois.\""
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The rental property postal/zip code is 62703."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The term start date is the 1st of July, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "The start time of the term is on the 1st of July, 2024."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "The term end date of the lease agreement is 30th of June, 2025."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The end time of the lease term is the 30th of June, 2025."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The rental amount is $2,000 per month, and the total rent for the lease period amounts to $24,000."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method is not explicitly stated in the document. It only mentions that the rent is payable in monthly tranches of $2,000, with the initial tranche due on July 1, 2024, and subsequent tranches due on the first calendar day of each ensuing month. The method of payment, whether it is by cash, check, or bank transfer, is not specified."
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The document does not mention a reservation fee."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The security deposit amount is $2,000."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The maximum number of occupants is not specified in the document."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "Yes, pets are allowed according to Addendum A of the document."
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "No, smoking is not explicitly allowed or disallowed in the document. However, the document states that \"The Property shall be exclusively utilized for residential purposes by the Lessee and their immediate kin,\" and it is generally understood that smoking is not allowed in most residential properties. Therefore, it can be inferred that smoking is not allowed, but it is not explicitly stated."
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency used in the document is the US Dollar (USD). This can be seen in the \"Remuneration\" section, where the cumulative rent for the lease period is stated to be $24,000, payable in monthly tranches of $2,000."
+    }
+]
