@@ -123,3 +123,4 @@ yarg==0.1.9
 yarl==1.9.4
 seaborn=0.13.2
 spacy=3.7.5
+groq=0.9.0
