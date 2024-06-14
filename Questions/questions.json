@@ -1,0 +1,29 @@
+{
+    "questions": [
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Date",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Tenant First Name",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Tenant Last Name",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Tenant Phone Number",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Tenant Email",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Landlord First Name",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Landlord Last Name",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Landlord Phone Number",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Landlord Email",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Rental Property Street Address",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Rental Property City",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Rental Property State/Province",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Rental Property Postal/Zip Code",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Term Start Date",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Term Start Time",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Term End Date",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Term End Time",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Rental Amount",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Payment Method",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Reservation Fee",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Security Deposit Amount",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Maximum Number of Occupants",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Pets Allowed (Yes/No)",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Smoking Allowed (Yes/No)",
+        "Please extract the following data from the document. If you can’t find the answer please answer ‘not available’. Currency"
+    ]
+}
