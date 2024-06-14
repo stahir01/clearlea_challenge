@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date of the Residential Lease Agreement is June 13, 2024."
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The tenant's first name is Jane."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The Tenant's Last Name is \"Doe\"."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant's phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The tenant's email address is jane.doe@example.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The answer is: John"
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The answer is: Smith"
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The Landlord's phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The landlord's email address is john.smith@example.com."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The rental property street address is 123 Main Street, Springfield, Illinois, 62701."
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The answer is: Springfield."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The rental property is located in the state of Illinois."
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The Rental Property Postal/Zip Code is 62701."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The Term Start Date is July 1, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "The Term Start Time is 12:00 PM."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "According to the document, the Term End Date is June 30, 2025, at 12:00 PM."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "According to the document, the Lease Term ends on June 30, 2025, at 12:00 PM."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The rental amount is $1,200 per month."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "According to the document, the payment method is via bank transfer to the following account:\n\n- Bank Name: First National Bank\n- Account Number: 123456789\n- Routing Number: 987654321"
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The reservation fee is $200."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The security deposit amount is $1,200."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "According to the document, the Maximum Number of Occupants is 4."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "According to the document, the answer is: Yes"
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "According to the document, the answer is:\n\nNo"
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency is not explicitly mentioned in the document, so I would answer \"not available\". However, based on the context and the mention of dollar amounts (e.g., $1,200, $200, $50), it can be inferred that the currency is likely the US Dollar (USD)."
+    }
+]

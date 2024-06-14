@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Date",
+        "answer": "The date associated with this Residential Lease Agreement is June 13, 2024."
+    },
+    {
+        "question": "Tenant First Name",
+        "answer": "The tenant's first name is Jane."
+    },
+    {
+        "question": "Tenant Last Name",
+        "answer": "The last name of the tenant is Doe."
+    },
+    {
+        "question": "Tenant Phone Number",
+        "answer": "The tenant phone number is (555) 987-6543."
+    },
+    {
+        "question": "Tenant Email",
+        "answer": "The tenant's email address is jane.doe@example.com."
+    },
+    {
+        "question": "Landlord First Name",
+        "answer": "The landlord's first name is John, as per the Residential Lease Agreement."
+    },
+    {
+        "question": "Landlord Last Name",
+        "answer": "The last name of the landlord is Smith."
+    },
+    {
+        "question": "Landlord Phone Number",
+        "answer": "The landlord phone number is (555) 123-4567."
+    },
+    {
+        "question": "Landlord Email",
+        "answer": "The landlord email, as per the document, is john.smith@example.com."
+    },
+    {
+        "question": "Rental Property Street Address",
+        "answer": "The rental property street address is 123 Main Street, Springfield, Illinois, 62701."
+    },
+    {
+        "question": "Rental Property City",
+        "answer": "The rental property is located in Springfield, Illinois, 62701."
+    },
+    {
+        "question": "Rental Property State/Province",
+        "answer": "The rental property is located in Springfield, Illinois, 62701. Therefore, the state/province is Illinois."
+    },
+    {
+        "question": "Rental Property Postal/Zip Code",
+        "answer": "The rental property is located at 123 Main Street, Springfield, Illinois, 62701. Therefore, the rental property postal/zip code is 62701."
+    },
+    {
+        "question": "Term Start Date",
+        "answer": "The term start date is July 1, 2024."
+    },
+    {
+        "question": "Term Start Time",
+        "answer": "The term start time is July 1, 2024, at 12:00 PM."
+    },
+    {
+        "question": "Term End Date",
+        "answer": "The term end date is June 30, 2025, at 12:00 PM."
+    },
+    {
+        "question": "Term End Time",
+        "answer": "The term end time is June 30, 2025, at 12:00 PM."
+    },
+    {
+        "question": "Rental Amount",
+        "answer": "The rental amount is $1,200 per month."
+    },
+    {
+        "question": "Payment Method",
+        "answer": "The payment method for the rental amount and security deposit is bank transfer."
+    },
+    {
+        "question": "Reservation Fee",
+        "answer": "The reservation fee is $200."
+    },
+    {
+        "question": "Security Deposit Amount",
+        "answer": "The security deposit amount is $1,200."
+    },
+    {
+        "question": "Maximum Number of Occupants",
+        "answer": "The maximum number of occupants allowed is 4."
+    },
+    {
+        "question": "Pets Allowed (Yes/No)",
+        "answer": "Yes, pets are allowed."
+    },
+    {
+        "question": "Smoking Allowed (Yes/No)",
+        "answer": "No, smoking is not allowed on the property."
+    },
+    {
+        "question": "Currency",
+        "answer": "The currency used in the Residential Lease Agreement is the US dollar (USD). This can be found in the \"Rental Payments\" section where the monthly rent is stated as $1,200, the reservation fee as $200, and the security deposit as $1,200."
+    }
+]
