@@ -1,0 +1,117 @@
+Real Estate Rental Contract
+
+This Rental Agreement ("Agreement") is made and entered into on this 14th day of June, 2024, by and between:
+
+Landlord:
+Name: John Doe  
+Address: 123 Main Street, Suite 100, Springfield, IL, 62701  
+Phone: (555) 123-4567  
+Email: john.doe@example.com  
+
+Tenant:
+Name: Jane Smith  
+Address: 456 Oak Avenue, Apt 202, Springfield, IL, 62702  
+Phone: (555) 987-6543  
+Email: jane.smith@example.com  
+
+Property:
+The property is located at 789 Pine Street, Springfield, IL, 62703, and is described as a single-family residential home (the "Premises").
+
+Term
+The term of this lease shall begin on July 1, 2024, and end on June 30, 2025, unless terminated earlier in accordance with the provisions of this Agreement.
+
+Rent
+The total rent for the term of this lease is $24,000, payable in monthly installments of $2,000. The first monthly installment is due on July 1, 2024, and subsequent payments are due on the first day of each month thereafter.
+
+Security Deposit
+The Tenant shall pay a security deposit in the amount of $2,000, due upon signing this Agreement. The Landlord will hold this deposit as security for the Tenant’s performance of their obligations under this Agreement.
+
+Late Fees
+If the rent is not paid by the 5th day of the month, a late fee of $50 will be assessed. If rent is not paid by the 10th day of the month, an additional $5 per day will be added until the rent is paid in full.
+
+Utilities
+The Tenant is responsible for payment of all utilities, including electricity, gas, water, sewer, and trash collection.
+
+Use of Premises
+The Premises shall be used solely for residential purposes by the Tenant and the Tenant’s immediate family. The Tenant shall not use the Premises for any unlawful purpose or conduct any commercial activities.
+
+Maintenance and Repairs
+The Tenant shall maintain the Premises in a clean, sanitary, and good condition. The Tenant shall be responsible for any damage caused by their negligence or that of their guests. The Landlord shall be responsible for major repairs and maintenance, including structural repairs and major systems (e.g., plumbing, electrical, heating, and air conditioning).
+
+Alterations
+The Tenant shall not make any alterations, additions, or improvements to the Premises without the prior written consent of the Landlord. Any approved alterations shall become the property of the Landlord upon termination of this Agreement.
+
+Entry by Landlord
+The Landlord or Landlord’s agent may enter the Premises to inspect, make repairs, or show the property to prospective tenants or buyers with 24-hour notice, except in case of emergency.
+
+Termination
+Either party may terminate this Agreement at the end of the lease term by providing written notice to the other party at least 30 days prior to the end of the lease term. If the Tenant fails to provide such notice, the lease shall automatically renew on a month-to-month basis under the same terms and conditions.
+
+Default
+If the Tenant fails to pay rent or breaches any other term of this Agreement, the Landlord may terminate this Agreement and take possession of the Premises. The Tenant shall be liable for any remaining rent due under the lease term.
+
+Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Illinois.
+
+Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior understandings, agreements, or representations. Any amendments to this Agreement must be in writing and signed by both parties.
+
+Signatures
+Landlord:
+
+_____________________________  
+John Doe  
+
+Tenant:
+
+_____________________________  
+Jane Smith  
+
+Witness:
+
+_____________________________  
+[Name of Witness]  
+
+Date:
+
+_____________________________  
+
+---
+
+Addendum A: Pet Agreement
+
+Tenant:
+Name: Jane Smith
+
+Property:
+789 Pine Street, Springfield, IL, 62703
+
+Pet:
+Type: Dog  
+Breed: Labrador Retriever  
+Name: Max  
+Weight: 50 lbs  
+
+Terms:
+1. Tenant agrees to pay a non-refundable pet fee of $300.
+2. Tenant agrees to keep the pet under control at all times.
+3. Tenant agrees not to leave the pet unattended for an unreasonable period.
+4. Tenant agrees to clean up after the pet and to dispose of the pet's waste properly.
+5. Tenant agrees to ensure the pet does not disturb other tenants or neighbors.
+6. Tenant agrees to comply with all local laws and regulations regarding pets.
+
+Signatures:
+
+Landlord:
+
+_____________________________  
+John Doe  
+
+Tenant:
+
+_____________________________  
+Jane Smith  
+
+Date:
+
+_____________________________
